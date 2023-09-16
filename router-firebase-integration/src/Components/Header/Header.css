@@ -1,0 +1,16 @@
+div a{
+    margin: 30px;
+    color: black;
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 10px 20px 10px 20px;
+    transition: 0.5s;
+}
+div a:hover{
+    background-color: #176B87;
+    color: white;
+}
+.active{
+    background-color: #176B87;
+    color: white;
+}
